@@ -1,1 +1,1 @@
-class Pokemon 
+class Pokemon
