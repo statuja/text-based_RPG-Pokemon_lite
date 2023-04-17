@@ -16,3 +16,4 @@ class AttackSkill {
     }
 } 
 let lightning = new AttackSkill("lightning", 40, 30);
+//type the code here
