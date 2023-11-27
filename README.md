@@ -4,7 +4,7 @@ This project serves as a practical exercise in applying programming concepts to 
 Pokemon Lite simulates a Pokemon battle between three different Pokemon—Pikachu, Bulbasaur, and Mankey. Each Pokemon has a set of attack skills with varying damage and magic requirements. The battle outcome depends on the strategic use of attack skills, health, and magic points.
 
 ## Key concepts
-###$ Object-Oriented Programming (OOP): 
+#### Object-Oriented Programming (OOP): 
 The project uses classes (AttackSkill and Pokemon) to model entities and their behavior. This approach follows OOP principles by encapsulating data and methods into objects.
 #### Class Constructors and Methods: 
 Understanding how to define and use class constructors and methods is essential for creating reusable and organized code. In this project, constructors initialize the state of objects, and methods perform actions such as attacking, learning skills, and displaying status.
