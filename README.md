@@ -1,7 +1,7 @@
 # Pokemon Lite
 ## Overview
-This project serves as a practical exercise in applying programming concepts to create a simple interactive simulation. It also provides a foundation that can be built upon for more complex projects and serves as a starting point for learning game development or simulation programming.
-Pokemon Lite simulates a Pokemon battle between three different Pokemon—Pikachu, Bulbasaur, and Mankey. Each Pokemon has a set of attack skills with varying damage and magic requirements. The battle outcome depends on the strategic use of attack skills, health, and magic points.
+This project serves as a practical exercise in applying programming concepts to create a simple interactive simulation. It also provides a foundation that can be built upon for more complex projects and serves as a starting point for learning game development or simulation programming.--
+-- Pokemon Lite simulates a Pokemon battle between three different Pokemon — Pikachu, Bulbasaur, and Mankey. Each Pokemon has a set of attack skills with varying damage and magic requirements. The battle outcome depends on the strategic use of attack skills, health, and magic points.
 
 ## Key concepts
 #### Object-Oriented Programming (OOP): 
